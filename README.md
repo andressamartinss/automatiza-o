@@ -3,7 +3,7 @@ Automação em Python para limpeza, padronização e comparação de planilhas E
 
 ## 📊 Automação de Comparação de Planilhas
 
-Este projeto tem como objetivo automatizar a conferência entre duas planilhas Excel — **Base Interna** e **Planilha de Credenciados** — eliminando a necessidade de verificação manual linha por linha.
+Este projeto tem como objetivo automatizar a conferência entre duas planilhas Excel eliminando a necessidade de verificação manual linha por linha.
 
 A automação realiza a **limpeza, padronização e comparação dos dados**, garantindo que pequenas diferenças de formatação não gerem erros na análise.
 
